@@ -3,8 +3,8 @@
 Downloag:
 you can vist :https://btsd.ethz.ch/shareddata/
 or from direct links:
--Download training data -https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Training.zip.
+1-Download training data -https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Training.zip.
 
--Download testing data - https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip
+2-Download testing data - https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip
 
 
